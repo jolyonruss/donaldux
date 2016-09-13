@@ -1,6 +1,6 @@
 {
   "name": "donaldux",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A parody React library for handling data",
   "main": "index.js",
   "scripts": {
